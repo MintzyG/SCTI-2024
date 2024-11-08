@@ -1,7 +1,7 @@
 # SCTI
 
 ## O que é a SCTI?
-
+a
 Semana de Ciências e Tecnologias da Informação (SCTI), Edição 2024.
 
 A SCTI é um evento que acontece todo ano na Universidade Estadual do Norte Fluminense (UENF) durante o segundo período do ano.
